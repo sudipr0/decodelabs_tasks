@@ -1,4 +1,4 @@
-# DecodeLabs DevOps Engineering Internship — Week 1 Portfolio
+# DecodeLabs DevOps Engineering Internship 
 
 Welcome to my official DevOps industrial training workspace. This repository serves as a comprehensive portfolio demonstrating my practical mastery of core systems administration, structured version control workflows, containerization strategies, and cloud-managed automation pipelines.
 
